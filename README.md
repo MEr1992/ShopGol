@@ -1,2 +1,2 @@
-# IKVU
-Management of virtual education
+# Shop
+Shop for management && online display and sale of cosmetic products
